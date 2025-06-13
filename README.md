@@ -15,6 +15,6 @@ To increase domestic and international tourism while promoting responsible and s
 - TensorFlow Lite for voice assistant (optional)
 - ARCore for augmented reality elements
 ## 👤 Author
-**Kenogh2025** – Ethio-coder certified | Android & Data Science | Hult Prize Alumni
+**Kenogh2025** – Ethio-coder certified | Android & Data Science | Hult Prize Alumni| Aspire Leadership Alumni
 ## 📄 License
 This project is open for collaboration and innovation. MIT License.
